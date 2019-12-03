@@ -1,0 +1,36 @@
+section{
+    color: black ;
+    background-color: cadetblue;
+    font-family: Cambria;
+    width: 75%;
+    padding: 5px;
+    
+}
+#first{
+    color: black ;
+    font-family: Cambria;
+    font-size: 10pt;
+    width: 100%;
+    margin: 5px;
+    text-align: center;
+}
+h1{
+    font-size: 5em;
+    padding:10px;
+    border: 1px black solid;
+    
+    margin-left: 5px ;
+    margin-right: 5px;
+    margin-top: 15px;
+    margin-bottom: 1px;
+}
+h2{
+    font-size: 1em;
+    border-bottom: 1px black solid;
+    border-width: 75% ;
+}
+
+#carscene{
+    height: 600px;
+    width: 950px;
+}
